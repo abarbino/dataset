@@ -167,7 +167,7 @@
   <dcatapit:Distribution rdf:about="https://www.comune.cerreto-guidi.fi.it/it/carte-identita/csv2">
     <dcat:accessURL rdf:resource="https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1970/allegati/open-data/carteidentita2024.csv"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -182,7 +182,7 @@
   <dcatapit:Distribution rdf:about="https://www.comune.cerreto-guidi.fi.it/it/scuole/csv3">
     <dcat:accessURL rdf:resource="https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1970/allegati/open-data/scuola.csv"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -197,7 +197,7 @@
   <dcatapit:Distribution rdf:about="https://www.comune.cerreto-guidi.fi.it/it/alunni/csv4">
     <dcat:accessURL rdf:resource="https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1970/allegati/open-data/alunni.csv"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
